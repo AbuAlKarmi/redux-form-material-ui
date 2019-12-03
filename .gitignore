@@ -3,7 +3,7 @@
 node_modules
 coverage
 dist
-es
-lib
+#es
+#lib
 npm-debug.log
 .DS_Store
